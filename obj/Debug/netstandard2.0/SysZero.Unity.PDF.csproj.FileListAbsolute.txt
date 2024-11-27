@@ -1,6 +1,0 @@
-C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.Unity.PDF.csproj.AssemblyReference.cache
-C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.Unity.PDF.GeneratedMSBuildEditorConfig.editorconfig
-C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.Unity.PDF.AssemblyInfoInputs.cache
-C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.Unity.PDF.AssemblyInfo.cs
-C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.Unity.PDF.csproj.CoreCompileInputs.cache
-C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.Unity.PDF.sourcelink.json

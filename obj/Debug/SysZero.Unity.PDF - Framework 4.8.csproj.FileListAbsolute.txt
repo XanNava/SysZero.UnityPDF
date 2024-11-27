@@ -1,0 +1,9 @@
+C:\(PROJECTS)\Riza\NameChange\SysZero.Unity.PDF - Framework 4.8\bin\Debug\SysZero.Unity.PDF - Framework 4.8.dll
+C:\(PROJECTS)\Riza\NameChange\SysZero.Unity.PDF - Framework 4.8\bin\Debug\SysZero.Unity.PDF - Framework 4.8.pdb
+C:\(PROJECTS)\Riza\NameChange\SysZero.Unity.PDF - Framework 4.8\bin\Debug\UnityEngine.dll
+C:\(PROJECTS)\Riza\NameChange\SysZero.Unity.PDF - Framework 4.8\bin\Debug\UnityEngine.xml
+C:\(PROJECTS)\Riza\NameChange\SysZero.Unity.PDF - Framework 4.8\obj\Debug\SysZero.Unity.PDF - Framework 4.8.csproj.AssemblyReference.cache
+C:\(PROJECTS)\Riza\NameChange\SysZero.Unity.PDF - Framework 4.8\obj\Debug\SysZero.Unity.PDF - Framework 4.8.csproj.CoreCompileInputs.cache
+C:\(PROJECTS)\Riza\NameChange\SysZero.Unity.PDF - Framework 4.8\obj\Debug\SysZero..4B711EF8.Up2Date
+C:\(PROJECTS)\Riza\NameChange\SysZero.Unity.PDF - Framework 4.8\obj\Debug\SysZero.Unity.PDF - Framework 4.8.dll
+C:\(PROJECTS)\Riza\NameChange\SysZero.Unity.PDF - Framework 4.8\obj\Debug\SysZero.Unity.PDF - Framework 4.8.pdb

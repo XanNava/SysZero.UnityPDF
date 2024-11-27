@@ -1,10 +1,9 @@
-﻿using System;
+﻿
+namespace SysZero.Unity.PDF
+{
+	using UnityEngine;
 
-using UnityEngine;
-
-namespace SysZero.Unity.PDF {
-	[AddComponentMenu(("SysZero/Unity/PDF - View"))]
+	[AddComponentMenu("(SysZero)/Unity/PDF/PDF - View")]
 	public class View : MonoBehaviour {
-
-	}
+    }
 }
