@@ -12,3 +12,8 @@ UnityEngine.dll
 2) Build the dll, and add it to your project
 
 TODO: Making a Second git for the Unity side aspects. 
+
+
+
+Using
+https://github.com/UglyToad/PdfPig?tab=readme-ov-file
