@@ -186,9 +186,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\(PROJECTS)\\Riza\\NameChange\\SysZero.UnityPDF\\SysZero.UnityPDF.csproj",
-      "projectName": "SysZero.UnityPDF",
-      "projectPath": "C:\\(PROJECTS)\\Riza\\NameChange\\SysZero.UnityPDF\\SysZero.UnityPDF.csproj",
+      "projectUniqueName": "C:\\(PROJECTS)\\Riza\\NameChange\\SysZero.UnityPDF\\SysZero.Unity.PDF.csproj",
+      "projectName": "SysZero.Unity.PDF",
+      "projectPath": "C:\\(PROJECTS)\\Riza\\NameChange\\SysZero.UnityPDF\\SysZero.Unity.PDF.csproj",
       "packagesPath": "C:\\Users\\Alexa\\.nuget\\packages\\",
       "outputPath": "C:\\(PROJECTS)\\Riza\\NameChange\\SysZero.UnityPDF\\obj\\",
       "projectStyle": "PackageReference",

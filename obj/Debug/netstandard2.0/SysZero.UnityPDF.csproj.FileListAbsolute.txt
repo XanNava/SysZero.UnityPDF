@@ -1,0 +1,14 @@
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\bin\Debug\netstandard2.0\SysZero.UnityPDF.deps.json
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\bin\Debug\netstandard2.0\SysZero.UnityPDF.dll
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\bin\Debug\netstandard2.0\SysZero.UnityPDF.pdb
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\bin\Debug\netstandard2.0\UnityEngine.dll
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\bin\Debug\netstandard2.0\UnityEngine.xml
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.UnityPDF.csproj.AssemblyReference.cache
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.UnityPDF.GeneratedMSBuildEditorConfig.editorconfig
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.UnityPDF.AssemblyInfoInputs.cache
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.UnityPDF.AssemblyInfo.cs
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.UnityPDF.csproj.CoreCompileInputs.cache
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.UnityPDF.sourcelink.json
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero..5ADF71F0.Up2Date
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.UnityPDF.dll
+C:\(PROJECTS)\Riza\NameChange\SysZero.UnityPDF\obj\Debug\netstandard2.0\SysZero.UnityPDF.pdb

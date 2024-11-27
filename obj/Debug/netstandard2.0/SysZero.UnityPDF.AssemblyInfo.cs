@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SysZero.UnityPDF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cd462318c10c80589f8a08233596e4e247d72db8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56f75be62ee7a83f85304250d65f45647974b663")]
 [assembly: System.Reflection.AssemblyProductAttribute("SysZero.UnityPDF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SysZero.UnityPDF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

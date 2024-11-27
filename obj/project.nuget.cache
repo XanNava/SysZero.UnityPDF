@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gVzZbOBnU14=",
+  "dgSpecHash": "Oe9SaOueFQg=",
   "success": true,
-  "projectFilePath": "C:\\(PROJECTS)\\Riza\\NameChange\\SysZero.UnityPDF\\SysZero.UnityPDF.csproj",
+  "projectFilePath": "C:\\(PROJECTS)\\Riza\\NameChange\\SysZero.UnityPDF\\SysZero.Unity.PDF.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Alexa\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Alexa\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
